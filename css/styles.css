@@ -1,26 +1,5 @@
-.jumbotron {
-  padding-top: 6rem;
-  background-color: #0099ff;
-}
-
-#gallery {
-  padding-top: 4rem;
-  background-color: #0099ff;
-}
-#navbar {
-  background-color: #0099ff;
-}
-#footer {
-  background-color: #0099ff;
-}
-#iconfot {
-  background-color: #e7008a;
-}
-/* #about {
-        background-color: #a2d9ff;
-      } */
 body {
-  font-family: Helvetica, Tahoma;
+  font-family: Helvetica,Tahoma;
 }
 
 *,
